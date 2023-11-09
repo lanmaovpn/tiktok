@@ -10,3 +10,5 @@
 4.安装即可用  
 
 ![image](https://github.com/laomaovpn/tiktok/assets/150375772/239ee4f7-62c4-4375-bee9-730d55d3e7c1)
+![编组 33](https://github.com/laomaovpn/tiktok/assets/150375772/2fc9994c-ad21-4849-883b-b10547c3b9cc)
+
