@@ -1,5 +1,6 @@
 # tiktok app下载 教程
 如何下载tiktok？下面是免拔卡，免配置的教程，不用下什么难用的outline，也不用下clash，一键安装，开启即可使用  
+优点：大陆可用，android，PC，ios，mac，ipad全平台支持
 
 1.下载蓝猫加速器:https://www.laomaovpn.com/  
   
